@@ -462,7 +462,7 @@
             <div class="row">
                 <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2">
                     <div class="site-heading text-center">
-                        <h2>Contact Us</h2>
+                        <h2>Hubungi kami</h2>
                         <p>
                         </p>
                     </div>
@@ -534,13 +534,13 @@
                                     <a href="#about">Tentang</a>
                                 </li>
                                 <li>
-                                    <a href="#featured">Kelebihan</a>
+                                    <a href="#process">Kelebihan</a>
                                 </li>
                                 <li>
-                                    <a href="#">Management </a>
+                                    <a href="#customer">Testimoni </a>
                                 </li>
                                 <li>
-                                    <a href="#">Features</a>
+                                    <a href="#contact">Kontak</a>
                                 </li>
                             </ul>
                         </div>
@@ -603,7 +603,42 @@
         <a href="https://www.freepik.com/vectors/grammar">Grammar vector created by pch.vector - www.freepik.com</a>
     </footer>
     <!-- End Footer -->
-
+<script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?96139';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+        "enabled": true,
+        "chatButtonSetting": {
+            "backgroundColor": "#4dc247",
+            "ctaText": "Kirim Pesan",
+            "borderRadius": "25",
+            "marginLeft": "0",
+            "marginBottom": "50",
+            "marginRight": "50",
+            "position": "right"
+        },
+        "brandSetting": {
+            "brandName": "Admin Bimbel Perisai",
+            "brandSubTitle": "Bimbel Perisai",
+            "brandImg": "https://farhansyam.github.io/perisai/assets/img/pp.jpg",
+            "welcomeText": "Tanya Admin disini",
+            "messageText": "Halloo Chat Admin disini",
+            "backgroundColor": "#0a5f54",
+            "ctaText": "Start Chat",
+            "borderRadius": "25",
+            "autoShow": false,
+            "phoneNumber": "6285864142083"
+        }
+    };
+    s.onload = function () {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
     <!-- jQuery Frameworks
     ============================================= -->
     <script src="assets/js/jquery-1.12.4.min.js"></script>
