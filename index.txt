@@ -1,5 +1,852 @@
-<<<<<<< HEAD
-https://perisaicamp.com/index.html
-=======
-https://bimbelprivatperisai.com/index.html
->>>>>>> ecceee7b8ee6e9320ef5a0b3aa8cc4e446dd086e
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- ========== Meta Tags ========== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Perisaicamp, Bimbel Bogor,Bimbel Ciomas Bimbel Private">
+    <meta property="og:title" content="BIMBEL PERISAI" />
+    <meta property="og:description"
+        content="BIMBEL PERISAI  siap melayani program les privat TK, SD, SMP, SMA, UN/AKM, OSN, Simak UI, SBMPTN, Akpol &amp; Mahasiswa (Kurikulum Nasional &amp; Internasional) dan Program Bahasa untuk semua jenjang" />
+    <meta property="og:url" content="https://bimbelprivatperisai.com/" />
+    <meta name="description" content="Bimbel Perisai, Bimbel Bogor,Bimbel Ciomas Bimbel Private">
+<meta property="og:title" content="BIMBEL PERISAI" />
+<meta property="og:description"
+    content="BIMBEL PERISAI  siap melayani program les privat TK, SD, SMP, SMA, UN/AKM, OSN, Simak UI, SBMPTN, Akpol &amp; Mahasiswa (Kurikulum Nasional &amp; Internasional) dan Program Bahasa untuk semua jenjang" />
+<meta property="og:url" content="https://bimbelprivatperisai.com/" />
+    <!-- ========== Page Title ========== -->
+    <title>PerisaiCamp</title>
+
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+    <!-- ========== Start Stylesheet ========== -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="assets/css/flaticon-set.css" rel="stylesheet" />
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" />
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="assets/css/animate.css" rel="stylesheet" />
+    <link href="assets/css/bootsnav.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet" />
+    <!-- ========== End Stylesheet ========== -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5/html5shiv.min.js"></script>
+      <script src="assets/js/html5/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ========== Google Fonts ========== -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Preloader Start -->
+    <div class="se-pre-con"></div>
+    <!-- Preloader Ends -->
+
+    <!-- Header 
+    ============================================= -->
+    <header id="home">
+
+        <!-- Start Navigation -->
+        <nav class="navbar active-border navbar-default navbar-fixed navbar-transparent white bootsnav">
+
+            <div class="container">
+
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="index.html">
+                        <img src="assets/img/logo-light.png" class="logo logo-display" alt="Logo">
+                        <img src="assets/img/logo.png" class="logo logo-scrolled" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
+                        <li class="smooth-menu">
+                            <a href="#home" class="dropdown-toggle smooth-menu" data-toggle="dropdown" >Home</a>
+                        </li>
+                        <li>
+                            <a class="smooth-menu" href="#about">About</a>
+                        </li>
+                        <li>
+                            <a class="smooth-menu" href="#services">Services</a>
+                        </li>
+                        <li>
+                            <a class="smooth-menu" href="#pricing">Pricing</a>
+                        </li>
+                        <li>
+                            <a class="smooth-menu" href="#fasilitas">Fasilitas</a>
+                        </li>
+                        <li>
+                            <a class="smooth-menu" href="#blog">Target Pembelajaran</a>
+                        </li>
+                        <li>
+                            <a class="smooth-menu" href="#contact">contact</a>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div>
+
+        </nav>
+        <!-- End Navigation -->
+                    <!-- Start Side Menu -->
+                    <div class="side">
+                        <a href="#" class="close-side"><i class="fa fa-times"></i></a>
+                        <div class="widget address">
+                            <h4 class="title">Alamat Kantor</h4>
+                            <ul>
+                                <li>
+                                    <i class="fas fa-phone"></i>
+                                    +62 858-6414-2083
+                                </li>
+                                <li>
+                                    <i class="fas fa-map-marker-alt"></i>
+                                    Jl. Melati Raya No.7, taman, pagelaran, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+                                </li>
+                                <li>
+                                    <i class="fas fa-envelope-open"></i>
+                                    Bimbelperisai@gmail.com
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="widget social">
+                            <h4 class="title">Media Sosial</h4>
+                            <ul class="link">
+                                <li class="facebook"><a href="http://www.facebook.com/bimbel.perisai.9"><i
+                                            class="fab fa-facebook-f"></i></a></li>
+                                <li class="dribbble"><a href="http://www.instagram.com/bimbelperisai_bogor"><i
+                                            class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- End Side Menu -->
+                </nav>
+                <!-- End Navigation -->
+                <div class="clearfix"></div>
+
+    </header>
+    <!-- End Header -->
+
+    <!-- Start Banner 
+    ============================================= -->
+    <div class="banner-area auto-height content-less shadow text-light text-center theme-hard bg-fixed" style="background-image: url(assets/img/2440x1578.png);">
+        <div class="container">
+            <div class="row">
+                <div class="content">
+                    <div class="col-md-10 col-md-offset-1">
+                        <h3>Bimbel SBMPTN Karantina SIMAK UI- LATIS SUPERCAMP ALUMNI UI</h3>
+                        <h4>Bimbel SBMPTN dan SIMAK UI 2023 dengan Sistem Karantina Menginap 30 Hari di Premium Apartemen. Bergaransi Masuk
+                        Kedokteran, UI ITB UGM & PTN Favorit</h4>
+                        <a class="btn-animation border light popup-youtube" href="https://www.youtube.com/watch?v=Nje0uPcqyXA">
+                            <i class="fa fa-play"></i> Tonton Video
+                        </a>
+                    </div>
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="banner banner-carousel owl-carousel owl-theme">
+                            <img alt="Thumb" src="assets/img/800x600.png">
+                            <img alt="Thumb" src="assets/img/800x600.png">
+                            <img alt="Thumb" src="assets/img/800x600.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="wavesshape highlight shape">
+            <img src="assets/img/waves-shape-2.svg" alt="Shape">
+        </div>
+    </div>
+    <!-- End Banner -->
+
+    <!-- Start About 
+    ============================================= -->
+    <div id="about" class="about-area text-center default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 info">
+                    <h2>Apa itu PesiaiCamp?</h2>
+                    <h5>
+                    PERISAI CAMP adalah sebuah program eksklusif dari yang dirancang khusus bagi siswa-siswi kelas 12
+                    atau alumni (gap year) untuk persiapan menghadapi kompetisi nasional menghadapi tes masuk
+                    Perguruan Tinggi Negeri (PTN) melalui jalur UTBK SBMPTN, SIMAK UI, UTULUGM dan
+                    ujian Mandiri PTN lainnya. <br><br> Peserta akan dikarantina selama sebulan penuh dengan tempat yang aman, nyaman dan kondusif
+                    dengan fasilitas yang lengkap sehingga membantu siswa untuk bisa fokus mempersiapkan ujian tes
+                    masuk PTN.
+                    Program ini, siswa dimentori langsung oleh tim ahli berpengalaman yang terdiri dari dosen,
+                    mahasiswa S1, S2, S3 dan alumni UI, ITB, UGM & PTN favorit lain. Dengan pengalaman yang kami
+                    miliki, Alhamdulillah sudah terbukti mampu menghantarkan siswa-siswi kelas 12 untuk mencapai
+                    impian mereka kuliah di PTN favorit di seluruh Indonesia.
+        </h5>
+                    <div class="fun-facts">
+                        <h3>Records</h3>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-4 item">
+                                <div class="fun-fact clients">
+                                    <div class="timer" data-to="50" data-speed="3000">134</div>
+                                    <span class="medium">Siswa</span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4 item">
+                            </div>
+                            <div class="col-md-4 col-sm-4 item">
+                                <div class="fun-fact">
+                                    <div class="timer" data-to="98" data-speed="5000">98</div>
+                                    <span class="medium">Success Rate</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End About -->
+
+    <!-- Start Services Area 
+    ============================================= -->
+    <div id="services" class="services-area default-padding bottom-less bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>10 Alasan Kenapa harus memilih Perisai Camp</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="services-items text-center">
+                    <!-- Single Item -->
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-project"></i>
+                                <h4>Terbukti Telah Berpengalaman</h4>
+                                <p>
+                                menghantarkan siswa-siswi kuliah di PTN favorit,seperti UI,
+                                ITB, UGM, UNPAD, UNDIP, IPB, UNBRAW, dll
+.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-concept"></i>
+                                <h4>Dibina oleh Tim Ahli</h4>
+                                <p>
+                                    Tim ahli dan berpengalaman yang terdiri dari mahasiswa dan
+                                    alumni S1, S2, S3 UI, UGM & PTN lainnya.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-talk"></i>
+                                <h4>Tingkat Kelulusan Tinggi</h4>
+                                <p>
+                                    Sudah meluluskan hamper 50 siswa dalam 2 tahun ini.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-updated"></i>
+                                <h4>Teknik Afirmasi yang Revolusioner</h4>
+                                <p>
+                                    Memadukan aspek kogniftif dengan teknik afirmasi yang
+                                    revolusioner untuk membantu pencapaian target siswa
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-updated"></i>
+                                <h4>Lembaga Profesional dan Resmi Terdaftar</h4>
+                                <p>
+                                    Dikelola oleh lembaga profesional yang resmi terdaftar di
+                                    dinas pendidikan non formal
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-updated"></i>
+                                <h4>Pelayanan Manajemen 24 Jam</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-updated"></i>
+                                <h4>Include Biaya Pendaftaran UTBK & Antar Jemput Lokasi</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-updated"></i>
+                                <h4>Powerful Visualization</h4>
+                                <p>
+                                    Tour De Campus
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-help"></i>
+                                <h4>Training Motivasi</h4>
+                                <p>
+                                    Dilakukan rutin oleh trainer profesional.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 equal-height">
+                        <div class="item">
+                            <div class="info">
+                                <i class="flaticon-insurance"></i>
+                                <h4>Tryout Online Berkala</h4>
+                                <p>
+                                    Practice makes perfect! Try Out Progresif yang didesain dengan sistem CBT akan membuat siswa terbiasa menghadapi soal
+                                    UTBK dan SIMAK UI 2022. Semakin banyak pengalaman siswa menghadapi soal –soal UTBK dan SIMAK UI, semakin tinggi peluang
+                                    siswa mendapatkan PTN impian. Dilengkapi dengan pembahasan soal dan dibahas tuntas bersama tutorMetode Belajar Efektif
+                                    dan Efisien
+                                    Konsultasi dan Evaluasi Berkala.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Services Area -->
+
+    <!-- End Work Step Area -->
+
+    <!-- Start Pricing Area
+    ============================================= -->
+    <div id="pricing" class="pricing-area default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Paket PerisaiCamp</h2>
+                    </div>
+                </div>
+
+                <div class="pricing-navs col-md-12">
+                    <!-- Tab Nav -->
+                </div>
+
+                <div class="pricing-content col-md-12">
+                    <div class="row">
+                        <!-- Start Tab Content -->
+                        <div class="tab-content">
+                            <!-- Tab Single Item -->
+                            <div id="monthly" class="tab-pane fade active in">
+                                <div class="col-md-12">
+                                    <div class="pricing-items">
+                                        <div class="col-lg-4 col-md-4 single-item">
+                                            <div class="pricing-item">
+                                                <ul>
+                                                    <li class="pricing-header">
+                                                        <h4>Premium Class</h4>
+                                                        <h2><sup>Rp.</sup>30.000.000,-</h2>
+                                                        <span>Limited user</span>
+                                                    </li>
+                                                    <li><i class="fas fa-check"></i> 1 Kamar berdua</li>
+                                                    <li><i class="fas fa-check"></i> 1 Kelas terdiri dari 4-5 peserta</li>
+                                                    <li><i class="fas fa-check"></i> Intensive Session: Sehari belajar 4 sesi</li>
+                                                    <li class="footer">
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 single-item">
+                                            <div class="pricing-item active">
+                                                <ul>
+                                                    <li class="pricing-header">
+                                                        <h4>Private Class</h4>
+                                                        <h2><sup>Rp.</sup>45.000.000,-</h2>
+                                                        <span>Limited user</span>
+
+                                                    </li>
+                                                    <li><i class="fas fa-check"></i>1 Kamar Sendiri</li>
+                                                    <li><i class="fas fa-check"></i>1 Kelas 1 Siswa</li>
+                                                    <li><i class="fas fa-check"></i>Intensive Session:sehari 6-7 sesi</li>
+                                                    <li><i class="fas fa-check"></i>Wonderful service: antar-jemput bandara</li>
+                                                    <li><i class="fas fa-check"></i> Personal Coach</li>
+                                                    <li class="footer">
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-4 single-item">
+                                            <div class="pricing-item">
+                                                <ul>
+                                                    <li class="pricing-header">
+                                                        <h4>Extended</h4>
+                                                        <h2><sup>Rp.</sup>55.000.000,-</h2>
+                                                        <span>Limited user</span>
+                                                    </li>
+                                                    <li><i class="fas fa-check"></i> Karantina UTBK,Simak UI,UMPTN</li>
+                                                    <li><i class="fas fa-check"></i> 1 Kamar Sendiri</li>
+                                                    <li><i class="fas fa-check"></i> 1 Kelas 2 Peserta</li>
+                                                    <li><i class="fas fa-check"></i> Intensive Session belajar 4-5 sesi</li>
+                                                    <li><i class="fas fa-check"></i> wonderful service: antar-jemput bandara</li>
+                                                    <li class="footer">
+                                                        <a class="btn circle btn-theme border btn-sm" href="#">Cash Back 20Juta jika keteima UTBK</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Tab Single Item -->
+
+
+                        </div>
+                        <!-- End Tab Content -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Pricing Area -->
+
+    <div id="fasilitas" class="work-step-area default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Fasilitas dan Layanan Program</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="work-step-items">
+                    <!-- Single Item -->
+                    <div class="single-item">
+                        <div class="col-md-12">
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-md-6 col-md-offset-3 info">
+                                        <div class="title">
+                                            <strong>
+                                            Fasilitas
+                                            </strong>
+                                        </div>
+                                        <ul>
+                                            <li>Ruangan exclusive dengan fasilitas TV, kulkas, dispenser, AC</li>
+                                            <li>Kolam Renang</li>
+                                            <li>Gym</li>
+                                            <li>Reading Corner</li>
+                                            <li>Access Card System</li>
+                                            <li>24 Jam Security</li>
+                                            <li>Receptionist yang ramah</li>
+                                            <li>Makan 3 kali sehari</li>
+                                            <li>Coffee Break</li>
+                                            <li>Laundry</li>
+                                            <li>Free Formulit UTBK,Simak UI,UTUL UGM</li>
+                                            <li>Training Motivasi dan Hypnotherapy</li>
+                                            <li>Fingerprint (Tes potensi dan bakat bawaan)</li>
+                                            <li>Tour UI atau UGM</li>
+                                            <li>Outbond Session</li>
+                                            <li>Konsultasi Jurusan dan PTN</li>
+                                            <li>Goodiebag berisi Kaos PerisaiCamp</li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="single-item reverse">
+                        <div class="col-md-12">
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-md-6 thumb">
+                                        <img src="assets/img/tabel.PNG" alt="Thumb">
+                                    </div>
+                                    <div class="col-md-6 info">
+                                        <div class="title">
+                                            <strong>Time Table</strong>
+                                        </div>
+                                        <p>
+                                            Berikut adalah lampiran gambaran besar agenda PerisaiCamp
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Team Area
+    ============================================= -->
+    <div id="blog" class="blog-area default-padding bottom-less">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Target Pembelajaran</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="work-step-items">
+                    <!-- Single Item -->
+                    <div class="single-item">
+                        <div class="col-md-12">
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-md-12 col-md-offset-1 info">
+                                        <ul>
+                                            <li>Penerapan metode dan model belajar efektif sesuai hasil mapping siswa</li>
+                                           <li>
+                                               Fun learning sehingga siswa tidak terbebani dengan waktu belajar                                              
+                                            </li>
+                                            <li>
+                                                Fleksibel konsultasi dengan tutor dan mentor untuk meningkatkan skill dan kemampuan pengerjaan soal
+                                            </li>
+                                            <li>
+                                            Siswa meraih impiannya berkuliah di Universitas dan jurusan sesuai minat dan bakat
+                                            </li>
+                                            <li>
+                                                Memahami penilaian dan pengerjaan UTBK dan SIMAK UI dengan sistem CBT
+                                            </li>
+                                            <li>
+                                                Menguasai materi dasar & advance SBMPTN dan SIMAK UI
+                                            </li>
+                                            <li>
+                                                Try Out Progresif rutin agar melampaui passing grade Universitas dan jurusan yang diinginkan
+                                            </li>
+    
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Blog Area -->
+
+    <!-- Start Contact
+    ============================================= -->
+    <div id="contact" class="contact-area bg-gray default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Hubungi kami</h2>
+                        <p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Address List -->
+                <div class="address-list text-center col-md-12">
+                    <div class="item-box">
+                        <!-- Single Item -->
+                        <div class="col-md-4 equal-height single-item">
+                            <div class="item">
+                                <i class="fas fa-map-marked-alt"></i>
+                                <h4>Location</h4>
+                                <p>
+                                    Jl. Melati Raya No.7, taman, pagelaran, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+                                </p>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="col-md-4 equal-height single-item">
+                            <div class="item">
+                                <i class="fas fa-phone"></i>
+                                <h4>Telepon / Whtasapp</h4>
+                                <h2>+62 858-6414-2083</h2>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="col-md-4 equal-height single-item">
+                            <div class="item">
+                                <i class="fas fa-envelope-open"></i>
+                                <h4>Email</h4>
+                                <p>
+                                    Bimbelperisai@gmail.com
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 equal-height single-item">
+                            <a href="https://www.facebook.com/bimbel.perisai.9">
+                                <div class="item">
+                                    <i class="fab fa-facebook-f"></i>
+                                    <h4>Facebook</h4>
+                                    <p>
+                                        Bimbel Perisai
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-6 equal-height single-item">
+                            <a href="http://www.instagram.com/bimbelperisai_bogor">
+                                <div class="item">
+                                    <i class="fab fa-instagram"></i>
+                                    <h4>Instagram</h4>
+                                    <p>
+                                        Bimbelperisai@gmail.com
+                                    </p>
+                                </div>
+                            </a>
+                            <div class="item">
+                                <i class="fab fa-facebook-f"></i>
+                                <h4>Facebook</h4>
+                                <p>
+                                    Bimbel Perisai
+                                </p>
+                            </div>
+                        </a>
+                        </div>
+                        <div class="col-md-6 equal-height single-item">
+                            <a href="http://www.instagram.com/bimbelperisai_bogor">
+                            <div class="item">
+                                <i class="fab fa-instagram"></i>
+                                <h4>Instagram</h4>
+                                <p>
+                                    Bimbelperisai@gmail.com
+                                </p>
+                            </div>
+                        </a>
+                        </div>
+                        <!-- End Single Item -->
+                    </div>
+                </div>
+                <!-- End Address List -->
+    
+            </div>
+        </div>
+    </div>
+    <!-- End Contact -->
+    <div class="maps-area">
+        <div class="container-full">
+            <div class="row">
+                <div class="google-maps">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.8616178694045!2d106.75980182919425!3d-6.591296767461579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c5a78d53f53b%3A0x3e27510c9ad83a35!2sBimbel%20Perisai%20Bogor!5e0!3m2!1sid!2sid!4v1652769417936!5m2!1sid!2sid"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="maps-area">
+    <div class="container-full">
+        <div class="row">
+            <div class="google-maps">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.8616178694045!2d106.75980182919425!3d-6.591296767461579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c5a78d53f53b%3A0x3e27510c9ad83a35!2sBimbel%20Perisai%20Bogor!5e0!3m2!1sid!2sid!4v1652769417936!5m2!1sid!2sid"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>            </div>
+        </div>
+    </div>
+</div>
+    <!-- Start Footer 
+        ============================================= -->
+    <footer class="default-padding bg-light bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="f-items">
+                    <div class="col-md-4 col-sm-6 equal-height item">
+                        <div class="f-item">
+                            <img src="assets/img/logo.png" alt="Logo">
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-6 equal-height item">
+                        <div class="f-item link">
+                            <h4>Quick LInk</h4>
+                            <ul>
+                                <li>
+                                    <a href="#home">Home</a>
+                                </li>
+                                <li>
+                                    <a href="#about">Tentang</a>
+                                </li>
+                                <li>
+                                    <a href="#process">Kelebihan</a>
+                                </li>
+                                <li>
+                                    <a href="#customer">Testimoni </a>
+                                </li>
+                                <li>
+                                    <a href="#contact">Kontak</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 equal-height item">
+                    <div class="f-item twitter-widget">
+                        <h4>Info Kontak</h4>
+                        <p>
+                            Jl. Melati Raya No.7, taman, pagelaran, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610
+                        </p>
+                        <div class="address">
+                            <ul>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fas fa-home"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Website:</h5>
+                                        <span>www.perisai.com</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fas fa-envelope"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Email:</h5>
+                                        <span>Bimbelperisai@gmail.com</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fas fa-phone"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Phone:</h5>
+                                        <span>+62 858-6414-2083 </span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Start Footer Bottom -->
+        <div class="footer-bottom">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="col-lg-6 col-md-6 col-sm-7">
+                        <!-- <p>&copy; Copyright 2018. All Rights Reserved by <a href="#">validthemes</a></p> -->
+                        <p>&copy; Copyright 2022. All Rights Reserved by <a href="#">Perisai</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Footer Bottom -->
+        </div>
+        <!-- <a href="https://www.freepik.com/vectors/grammar">Grammar vector created by pch.vector - www.freepik.com</a> -->
+    </footer>
+    <!-- End Footer -->
+    <script>
+        var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?96139';
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = url;
+        var options = {
+            "enabled": true,
+            "chatButtonSetting": {
+                "backgroundColor": "#4dc247",
+                "ctaText": "Kirim Pesan",
+                "borderRadius": "25",
+                "marginLeft": "0",
+                "marginBottom": "50",
+                "marginRight": "50",
+                "position": "right"
+            },
+            "brandSetting": {
+                "brandName": "Admin Bimbel Perisai",
+                "brandSubTitle": "Bimbel Perisai",
+                "brandImg": "https://farhansyam.github.io/perisai/assets/img/pp.jpg",
+                "welcomeText": "Tanya Admin disini",
+                "messageText": "Halloo Chat Admin disini",
+                "backgroundColor": "#0a5f54",
+                "ctaText": "Start Chat",
+                "borderRadius": "25",
+                "autoShow": false,
+                "phoneNumber": "6285864142083"
+            }
+        };
+        s.onload = function () {
+            CreateWhatsappChatWidget(options);
+        };
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+    </script>
+    <!-- jQuery Frameworks
+        ============================================= -->
+    <script src="assets/js/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/equal-height.min.js"></script>
+    <script src="assets/js/jquery.appear.js"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/modernizr.custom.13711.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/count-to.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.backgroundMove.js"></script>
+    <script src="assets/js/bootsnav.js"></script>
+    <script src="assets/js/main.js"></script>
+    
+    </body>
+    
+    </html>
+
+</body>
+
+</html>
