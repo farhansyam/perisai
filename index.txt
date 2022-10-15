@@ -435,7 +435,7 @@
                                                     <li><i class="fas fa-check"></i> Intensive Session belajar 4-5 sesi</li>
                                                     <li><i class="fas fa-check"></i> wonderful service: antar-jemput bandara</li>
                                                     <li class="footer">
-                                                        <a class="btn circle btn-theme border btn-sm" href="#">Cash Back 20Juta jika keteima UTBK</a>
+                                                        <a class="btn circle btn-theme border btn-sm" href="#">Cash Back 20Juta jika keterima UTBK</a>
                                                     </li>
                                                 </ul>
                                             </div>
